@@ -1,0 +1,14 @@
+References -
+three types
+1. Relative reference - H1
+2. Absolute reference - $H$1
+3. Mixed reference - $H1 H$1
+
+Cell references with another sheet
+Namesheet!cellname
+
+Cell references with another workbook
+
+=MAX([mybook.xlsx]Sheet1!B3:[mybook.xlsx]Sheet1!C4)
+
+ 

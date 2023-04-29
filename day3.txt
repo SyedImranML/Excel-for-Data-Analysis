@@ -1,0 +1,18 @@
+References
+1. Relative References H1
+2. Absolute $H$2 -fixed the position of the cell
+3. Mixed - $H1 H$1 
+
+copy & Paste
+1. select the cells which you want to copy - ctl +c
+2. paste ctl + v
+
+ctl + shift + down arrow -> select the range of cells
+
+
+mean -> average =average(range of the cells)
+median -> 10 20 30 40 50 --> 30
+median -> 10 20 30 40 50 60 -> 30+40/2 -> even values of range
+
+cell referencing with another sheet
+cell referencing with another workbook
