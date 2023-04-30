@@ -1,0 +1,21 @@
+WHATIF analysis, Date & Time Functions, Advanced Excel Functions :
+1. Date(yyyy,mm,dd)
+2. time(hh:mm:ss)
+3. today()- it will give todays date
+4. now() - it will give current 
+5. if(d2=now(),"Yes","No")
+6.=IF(A2=TODAY(),"Yes","No") -> date should be in mm/dd/yyyy
+7. =IF(HOUR(A13)=HOUR(NOW()),"Yes","No")
+8. 01/01/1900 ->  =year(01/01/1900)
+9. 01/01/1900 ->  =month(01/01/1900)
+10. 01/01/1900 ->  =day(01/01/1900)
+11. weekday()
+12.weeknum()
+13.=TEXT(H4,"dd-mm-yyyy")
+14. =TEXT(H7,"HH:MM AM/PM")
+15. todays add5 -> =TODAY()+5
+16.=WORKDAY(H15,2)
+17. Goal Seak
+18.Scienario Manager
+19. Data Table
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                          date and time
